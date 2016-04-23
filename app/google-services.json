@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_id": "celtic-house-129004",
+    "project_number": "434698519494",
+    "name": "DemoGoogleSignIn"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434698519494:android:276c40f8ed0a5f33",
+        "client_id": "android:empire.stark.demogooglesignin",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "empire.stark.demogooglesignin",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434698519494-aii2lp9seb3qnda6u1ohgprktq0rbd42.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "empire.stark.demogooglesignin",
+            "certificate_hash": "4C287945F8F3D110196A182357C51907B9F2D1CC"
+          }
+        },
+        {
+          "client_id": "434698519494-6snndvtff7g1t92h4erm50heke64ggko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
